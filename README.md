@@ -7,9 +7,9 @@ Here are some of the writeups I have done so far:
 
 ### AWS Labs:
 
-**[Hunting Secrets with TruffleHog](https://github.com/STaj-55/PwnedLabs/blob/main/aws/Hunt%20for%20Secrets%20in%20Git%20Repos.md)**
+**[Hunting Secrets with TruffleHog
 
-**[Identifying an Account ID from a Public S3](https://github.com/STaj-55/PwnedLabs/blob/main/aws/Identify-the-AWS-Account-ID-from-a-Public-S3-Bucket.md)**
+**[Identifying an Account ID from a Public S3]
 
 **AWS S3 Enumeration Basics**
 
